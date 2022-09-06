@@ -1,0 +1,5 @@
+***bench|benchmark everything*t*
+go test -run=XXX -bench=. -cpu 1
+
+***test|check everything*t*
+go test -v

@@ -1,0 +1,7 @@
+TODO:
+Next steps:
+- YAML FRONT
+    - Parse with YAML library from go
+    - to be parsed seperately
+    - Options should be saved in documents struct
+    - Options: "title", "author", "lineheight"
